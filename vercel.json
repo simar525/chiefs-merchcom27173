@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "src": "/(.*)",
+      "dest": "https://kcchiefsmerch.com/$1"
+ }
+  ]
+}
