@@ -3,6 +3,10 @@
     {
       "source": "/(.*)",
       "destination": "https://kcchiefsmerch.com/$1"
+ },
+      {
+      "source": "/product/(.*)",
+      "destination": "https://kcchiefsmerch.com/product/$1"
  }
   ]
 }
