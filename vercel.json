@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://kcchiefsmerch.com/$1"
+      "source": "/(.*)",
+      "destination": "https://kcchiefsmerch.com/$1"
  }
   ]
 }
